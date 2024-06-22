@@ -1,18 +1,8 @@
-import User from "./Week2/Task01/User";
-import UserClass from "./Week2/Task01/UserClass";
+import Product from "../src/Week2/Task02/Product";
 function App() {
   return (
-    <div
-      className="App"
-      style={{
-        height: "400px",
-        display: "flex",
-        alignItems: "center",
-        justifyContent: "center",
-      }}
-    >
-      <User />
-      <UserClass />
+    <div className="App">
+      <Product />
     </div>
   );
 }
