@@ -43,3 +43,8 @@ function Product(props) {
 export default Product
 
 ```
+
+
+### Mini Product display component for practice.
+![image](https://github.com/NadiaRajpoot/Bytewise-Fellowship/assets/101450968/c3bce1e6-3cc3-4145-bb17-ef6db74bf529)
+
