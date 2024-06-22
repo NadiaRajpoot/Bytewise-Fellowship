@@ -1,14 +1,18 @@
+import User from "./Week2/Task01/User";
+import UserClass from "./Week2/Task01/UserClass";
 function App() {
   return (
     <div
       className="App"
       style={{
-        alignItems: "center",
+        height: "400px",
         display: "flex",
+        alignItems: "center",
         justifyContent: "center",
       }}
     >
-      <h2>Bytewise-Project</h2>
+      <User />
+      <UserClass />
     </div>
   );
 }

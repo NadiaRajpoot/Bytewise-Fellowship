@@ -99,7 +99,7 @@ There are two main types of components in React:
 - Functional Components.
 - Class Components.
 
-##### Functional Components
+### Functional Components
 
 Syntax:` Functional components` are defined using the function keyword or arrow function syntax. These are nothing but a simple javascript Functions that returns some piece of JSX code.
 
@@ -126,7 +126,7 @@ export default FunctionComponent;
 
 - functional components are widely used in react and it is recommended to start the name of functional component with capital letter.
 
-##### Class Components.
+### Class Components.
 
 Syntax: `Class components` are ES6 classes that extend from `React.Component` or `React.PureComponent.` They have a `render() `method where you define the structure of your component's UI using JSX.
 
